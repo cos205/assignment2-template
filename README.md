@@ -1,4 +1,4 @@
-# Project 0
+# Project 2
 
 ## Available materials
 
