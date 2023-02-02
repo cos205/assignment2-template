@@ -97,7 +97,7 @@ def grader(filename, temp_dir, test):
     os.mkdir(os.path.join(temp_dir, 'src'))
     shutil.copytree(filename, os.path.join(temp_dir,'src'), symlinks=False, ignore=None, ignore_dangling_symlinks=False, dirs_exist_ok=True)
     grade, feedback = projects_2(test)(temp_dir)
-    shutil.rmtree(temp_dir, ignore_errors=True)
+    #shutil.rmtree(temp_dir, ignore_errors=True)
     if feedback == '':
         feedback = 'Congratulations! all tests passed successfully!'
     return grade, feedback
