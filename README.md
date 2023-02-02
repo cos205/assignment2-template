@@ -1,6 +1,6 @@
 # Project 2
 
-## Available materials
+## Materials
 
 ```/tools```
 
