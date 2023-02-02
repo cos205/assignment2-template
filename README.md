@@ -4,12 +4,10 @@
 
 ```/tools```
 
-This directory includes all the simulators and tools for this assignment. 
-Refer to this [guide](https://drive.google.com/file/d/1QDYIvriWBS_ARntfmZ5E856OEPpE4j1F/view) on this [website](https://www.nand2tetris.org/software) 
-for additional help setting up the simulator locally.
+This directory includes all the simulators and tools for this project.
 
 ```/src```
-This directory includes all the files required to complete the assginment.
+This directory includes all the files required to complete this project.
 
 ```/grader```
 Do not modify this repository. It is necessary for running the github grading scripts.
